@@ -5,3 +5,5 @@ These are books created for participating in Kaggle competitions, therefore are 
 - https://www.kaggle.com/competitions/titanic
 - https://www.kaggle.com/competitions/diamonds-datamad1022
 - https://www.kaggle.com/competitions/spaceship-titanic
+- https://www.kaggle.com/competitions/kaggle-cup-practice-contest
+- https://www.kaggle.com/competitions/playground-series-s3e14
